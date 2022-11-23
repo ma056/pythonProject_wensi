@@ -25,17 +25,17 @@ def main(wav_paths):
             # print(loudness)
             chunks = split_on_silence(sound,
                                       # must be silent for at least half a second,沉默半秒
-                                      min_silence_len=1000,  # 3s
+                                      min_silence_len=3000,  # 3s
                                       silence_thresh=-45,
                                       keep_silence=400
                                       )
             print('总分段：', len(chunks))
             for i, chunk in enumerate(chunks):
-                chunk.export("{0}_{1}.wav".format(name,i+1), format="wav")
+                chunk.export("{0}_{1}.wav".format(name.split('.')[0],i+1), format="wav")
                 # print(i)
 
 
 if __name__ == '__main__':
-    # main(r'C:\Users\Mawenjing\Desktop\wav')
-    wav_paths = Path(f"{sys.argv[1]}")
-    main(wav_paths)
+    main(r'C:\Users\Mawenjing\Desktop\wav')
+    # wav_paths = Path(f"{sys.argv[1]}")
+    # main(wav_paths)
