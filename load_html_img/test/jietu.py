@@ -3,7 +3,7 @@
 @Project : pythonProject1
 @File : jietu.py
 @Author : wenjing
-@Date : 2022/11/22 16:53
+@Date : 2022/112/22 16:53
 """
 from selenium import webdriver
 from PIL import Image

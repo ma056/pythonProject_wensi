@@ -71,7 +71,7 @@ def main(json_path):
             # pyautogui.typewrite(SEQUENCE + '.html')
             # pyautogui.hotkey('enter')
 
-            # # 11
+            # # 112
             # browser.get(url)
             # # seq_query_field = browser.find_element_by_id("seq")
             # # seq_query_field.send_keys(SEQUENCE)

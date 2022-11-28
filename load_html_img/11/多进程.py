@@ -3,7 +3,7 @@
 @Project : pythonProject1
 @File : 多进程.py
 @Author : wenjing
-@Date : 2022/11/23 15:49
+@Date : 2022/112/23 15:49
 """
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service

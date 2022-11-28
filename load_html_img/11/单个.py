@@ -18,7 +18,7 @@ def main(json_path, out_path):
     #     json_data = json.load(fp)
     #     for html_url in json_data:
     #         url = html_url['page_url']
-    url = 'https://tinnitusrecords.com/product/resistance-magazine-19/'
+    url = 'https://sell.amazon.com/'
     try:
         folder_path1 = f'{out_path}/PNG'
         os.makedirs(folder_path1, exist_ok=True)

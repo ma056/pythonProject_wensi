@@ -3,7 +3,7 @@
 @Project : pythonProject_wensi
 @File : tesla_tracking_test.py
 @Author : wenjing
-@Date : 2022/11/17 16:44
+@Date : 2022/112/17 16:44
 
 
 """
@@ -27,5 +27,5 @@ def process(excel_paths,holiday_paths):
 
 if __name__ == '__main__':
     excel_paths = r"C:\Users\Mawenjing\Desktop\data\task\Tesla_Tracking_20221111.xlsm"
-    holiday_paths = r'C:\Users\Mawenjing\Desktop\data\11.11 holiday'
+    holiday_paths = r'C:\Users\Mawenjing\Desktop\data\112.112 holiday'
     process(excel_paths,holiday_paths)
