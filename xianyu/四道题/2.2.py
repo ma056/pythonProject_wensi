@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 """
 @Project : pythonProject_wensi
-@File : 2.2.py
+@File : 2.count_person_num.py
 @Author : wenjing
 @Date : 2022/11/29 15:14
 """

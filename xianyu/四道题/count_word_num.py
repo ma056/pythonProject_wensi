@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 """
 @Project : pythonProject_wensi
-@File : 笑傲江湖.py
+@File : count_word_num.py
 @Author : wenjing
 @Date : 2022/11/29 14:57
 """

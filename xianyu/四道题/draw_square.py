@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 """
 @Project : pythonProject_wensi
-@File : 1.py
+@File : draw_square.py
 @Author : wenjing
 @Date : 2022/11/29 14:34
 """
