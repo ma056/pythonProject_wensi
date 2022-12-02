@@ -1,10 +1,4 @@
 # -- coding: utf-8 --
-"""
-@Project : pythonProject_wensi
-@File : count_word_num.py
-@Author : wenjing
-@Date : 2022/11/29 14:57
-"""
 f1 = open("笑傲江湖-网络版.txt", "r", encoding="utf-8")
 f2 = open("笑傲江湖-字符统计1.txt", "w", encoding="utf-8")
 txt = f1.read()

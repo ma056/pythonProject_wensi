@@ -1,12 +1,7 @@
 # -- coding: utf-8 --
-"""
-@Project : pythonProject_wensi
-@File : count_person_num.py
-@Author : wenjing
-@Date : 2022/11/29 14:43
-"""
-import jieba
 
+import jieba
+jieba.setLogLevel(jieba.logging.INFO)
 excludes = {'什么', '一个', '我们', '你们', '如今', '说道', '知道', '起来', '这里', '奶奶',
             '姑娘', '出来', '众人', '那里', '自己', '他们', '一面', '只见', '怎么', '老太太',
             '两个', '没有', '不是', '不知', '这个', '听见', '这样', '进来', '咱们', '太太',

@@ -1,10 +1,4 @@
 # -- coding: utf-8 --
-"""
-@Project : pythonProject_wensi
-@File : draw_square.py
-@Author : wenjing
-@Date : 2022/11/29 14:34
-"""
 from turtle import *  #用from ... import ... 导入库，后调用其函数只需写函数名
 
 setup(500,500,1000,250)
