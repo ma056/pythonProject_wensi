@@ -1,0 +1,194 @@
+
+Beijing
+Seoul
+Tokyo
+Elggydggmgj
+Pyongyang
+Singapore
+Jakarta
+Manila
+Bandar Seri Begawan
+Bangkok
+Kuala Lumpur
+Phnom Penh
+Hanoi
+Vientiane
+Nay Pyi Taw
+Thimphu
+Dili
+Kathmandu
+Dhaka
+New Delhi
+Colombo
+Islamabad
+Male
+Kabul
+Dushanbe
+Bishkek
+Astana
+Tashkent
+Ashgabat
+Tehran
+Baghdad
+Kuwait
+Doha
+Abu Dhabi
+Manama
+Muscat
+Sanaa
+Riyadh
+Amman
+Jerusalem
+Jerusalem
+Damascus
+Beirut
+Nicosia
+Ankara
+Baku
+T'bilisi
+Yerevan
+Berlin
+London
+Dublin
+Oslo
+Reykjavik
+Stockholm
+Helsinki
+Riga
+Tallinn
+Vilnius
+Prague
+Bratislava
+Warsaw
+Budapest
+Copenhagen
+Amsterdam
+Moscow
+Minsk
+Kiev
+Chisinau
+Monaco
+Paris
+Brussels
+Luxembourg
+Vienna
+Bern
+Andorra la Vella
+Vaduz
+Madrid
+Lisbon
+Rome
+Bamako
+San Marino
+Vatican City
+Ljubljana
+Zagreb
+Sarajevo
+Belgrade
+Tirana
+Sofia
+Bucharest
+Athens
+Skopje
+Washington
+Ottawa
+Mexico City
+Belmopan
+Guatemala
+San Salvador
+Managua
+Panama
+Havana
+Nassau
+Port-au-Prince
+Kingston
+Tegucigalpa
+San Jose
+Santo Domingo
+Basseterre
+Saint John's
+Castries
+Kingstown
+Roseau
+Saint George's
+Bridgetown
+Port-of-Spain
+Georgetown
+Bogota
+Quito
+Caracas
+aramaribo
+Sucre
+Santiago
+Lima
+Asuncion
+Brasilia
+Buenos Aires
+Montevide
+Cairo
+Algiers
+Addis Ababa
+Tshwane, Cape Town, Bloemfontein
+Asmara
+Djibouti
+Khartoum
+Mogadishu
+Tripoli
+Tunis
+Rabat
+Praia
+Bamako
+Nouakchott
+Dakar
+Banjul
+Bissau
+Conakry
+Monrovia
+Yamoussoukro
+Freetown
+Ouagadougou
+N'Djamena
+Niamey
+Abuja
+Accra
+Lome
+Porto-Novo
+Libreville
+Yaounde
+Malabo
+Sao Tome
+Brazzaville
+Kinshasa
+Bangui
+Bujumbura
+Kampala
+Kigali
+Dodoma
+Nairobi
+Luanda
+Lusaka
+Lilongwe
+Victoria
+Maputo
+Antananarivo
+Moroni
+Port Louis
+Harare
+Gaborone
+Windhoek
+Mbabane
+Maseru
+Canberra
+Wellington
+Suva
+Port Moresby
+Port-Vila
+Nuku'alofa
+Yaren District
+Tarawa
+Apia
+Funafuti
+Palikir
+Honiara
+Majuro
+Koror
